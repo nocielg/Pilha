@@ -4,3 +4,5 @@ public class PilhaVaziaException extends RuntimeException {
 		super(msg);
 	}
 }
+//teste
+//teste
