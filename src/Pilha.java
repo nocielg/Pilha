@@ -11,7 +11,7 @@ public class Pilha {
 	public boolean estaVazia() {
 		// TODO Auto-generated method stub
 		return quantidade == 0;
-	}
+	}//teste
 
 	public int tamanho() {
 		// TODO Auto-generated method stub

@@ -37,7 +37,7 @@ public class TestePilha {
 		assertEquals(1,p.tamanho());
 		assertEquals("primeiro",p.topo());
 		assertEquals("segundo",desempilhado);
-	}
+	}//teste
 	
 	@Test(expected=PilhaVaziaException.class)
 	public void removeDaPilhaVazia(){
